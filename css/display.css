@@ -1,0 +1,33 @@
+
+#titleName {
+    border-left: 5px solid green;
+    padding-left: 15px;
+    color: chocolate
+}
+
+.eachPost {
+    margin-top: 20px;
+    border-bottom: 1px solid blue;
+    padding-bottom: 10px;
+}
+
+#viewBtn {
+    border-radius: 3px;
+    background-color: darkkhaki;
+    color: white;
+}
+
+#userTitle {
+    font-size: 15px;
+    font-weight: 800;
+}
+
+#postby {
+    font-size: 12px;
+    margin-left: 60px;
+    color: darkolivegreen;
+}
+
+#authorName {
+    color: green;
+}
